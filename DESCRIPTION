@@ -1,0 +1,9 @@
+Package: PlotCreative
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Description: Function for a default aesthetic for plots, and a function that checks which plot is best for the specific datatype
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.1.0
